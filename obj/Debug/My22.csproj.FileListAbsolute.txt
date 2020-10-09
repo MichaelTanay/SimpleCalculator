@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\My22\bin\Debug\My22.exe.config
+C:\Users\Lenovo\source\repos\My22\bin\Debug\My22.exe
+C:\Users\Lenovo\source\repos\My22\bin\Debug\My22.pdb
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.Form1.resources
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.exe
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.pdb
+C:\Users\Lenovo\source\repos\My22\bin\Debug\My22.exe.manifest
+C:\Users\Lenovo\source\repos\My22\bin\Debug\My22.application
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.exe.manifest
+C:\Users\Lenovo\source\repos\My22\obj\Debug\My22.application
